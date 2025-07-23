@@ -16,6 +16,5 @@ A simple, responsive JSON Schema Builder built using ** HTML, CSS, and JavaScrip
 - 📱 Fully responsive (mobile-friendly)
 
 ---
-
-## 📂 Project Structure
+ 
 
